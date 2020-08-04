@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-item{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    position: relative;
+}
+
+.btn{
+    position: absolute;
+    bottom: 2rem;
+}
+
